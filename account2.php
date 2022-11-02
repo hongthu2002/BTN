@@ -1,16 +1,6 @@
-<?php
-ob_start();
-session_start();
- ?>
-
-
 <?php 
 	include "head.php"
 	?>
-<?php
-$title ="Shop ";
-$name ="Điện thoai";
-?>
 <?php 
 	include "top.php"
     ?>
